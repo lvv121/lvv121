@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mateusz
+- 👀 I’m interested in technology, programming, addictive serials and good games.
+- 🌱 I’m currently learning Python, Java, .NET and React (during studying at the Nicolaus Copernicus University in Toruń).
+- 💞️ I’m looking to collaborate on everything interesting.
+- 📫 How to reach me -> maticzar5@gmail.com.
